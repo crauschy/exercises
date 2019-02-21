@@ -9,3 +9,8 @@ Built to exercise my basic Javascript skills and game logic
 - BUT, if the player rolls a 1, all that ROUND score gets lost. After that, it's the next player's turn
 - The player can choose to 'Hold', which means that the ROUND score gets added to the GLOBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
+
+#### To do:
+- [ ] Add Header
+- [ ] Make responsive
+- [ ] Personalize Styling
